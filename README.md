@@ -1,0 +1,2 @@
+# ilkgithubrepom
+deneme
